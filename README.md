@@ -14,7 +14,7 @@ fullscreen=0
 ## Dependencies
 * **clang**
   - Ubuntu: ```sudo apt install clang```
-* **SDL2, SDL2_Image**
+* **SDL2**
   - Ubuntu: ``` sudo apt install libsdl2-dev ```
 
 ## Make
